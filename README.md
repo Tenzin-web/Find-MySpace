@@ -1,6 +1,6 @@
 # Find-MySpace
 .
-# RentEase - Simplifying Room Rentals
+# FindMySpace - Simplifying Room Rentals
 
 RentEase is a service-based platform that connects landlords with potential tenants. Landlords can list their rentable rooms, and users can browse, filter, and request live sessions to inspect the rooms virtually. If both parties agree, they can proceed with an online rental agreement, and payments are tracked securely.
 
